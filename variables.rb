@@ -1,3 +1,3 @@
 name= alyssa
-
+puts name
 
