@@ -1,3 +1,4 @@
 name= alyssa
-puts name
+puts "my name is #{name}
+
 
