@@ -1,4 +1,4 @@
 name = "alyssa"
-puts "my name is #{name}
+puts "my name is #{name}"
 age = "14 years"
-puts "my name is #{name} and i am #{age}
+puts "my name is #{name} and i am #{age}"
